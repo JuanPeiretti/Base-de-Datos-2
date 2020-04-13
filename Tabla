@@ -1,0 +1,7 @@
+create table TABLA_A
+(
+	PersonaID int,
+	ColumnaA varchar(255),
+	ColumnaB varchar(255)
+);
+	 
